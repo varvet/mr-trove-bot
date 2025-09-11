@@ -1,0 +1,187 @@
+[
+  {
+    "page": 1,
+    "section": "Cover & Contents",
+    "content": "2025© Copyright. All Rights Reserved.\nVarvet\nTrove. A proposal \nfrom Varvet"
+  },
+  {
+    "page": 2,
+    "section": "Cover & Contents",
+    "content": "Contents\nBackground\nOur Proposal\nThe Team\nBudget\nFinal Thoughts\nsimon@varvet.com"
+  },
+  {
+    "page": 3,
+    "section": "Background",
+    "content": "Background\n2025© Copyright. All Rights Reserved.\nVarvet"
+  },
+  {
+    "page": 4,
+    "section": "Background",
+    "content": "BAS ID\nBackgroundBackground\nTrove is a new investment app aiming to make a traditionally complex \nfinancial space accessible and intuitive.  \n\nTo support this vision, BAS ID has been engaged to create a brand \nidentity. Varvet has been asked to design the user experience of the \napplication — ensuring that the product reflects the brand’s values \nthrough every interaction.\n\nAs a first step, Varvet will define the app’s core UX concepts and develop \nwireframe sketches that outline key views, features, and flows. \n\nBy developing UX and brand in tandem, the process ensures clarity, \nconsistency, and coherence from day one."
+  },
+  {
+    "page": 5,
+    "section": "Background",
+    "content": "BAS ID\nBackgroundRebrief\nTo support Trove’s goals, BAS ID is \ndeveloping a solid and trustworthy brand \nidentity designed to attract interest and \nfoster long-term user trust.\n\nBringing this brand to life involves more \nthan just visuals. It means fulfilling the \nbrand promise through every user \ninteraction, ensuring that functionality, \nuser experience, and interface align with \nthe brand’s personality.\n\n\nAlongside brand development, Varvet will \nwork closely with BAS ID to define the user \nexperience. Varvet will translate the brand \nconcept into UX strategies, user flows, and \nwireframes, then turn these into interface \ndesigns and interactive prototypes.\n\nThis approach ensures strong alignment \nbetween the brand and product, resulting in \na cohesive and motivating investment \nexperience aimed at long-term growth."
+  },
+  {
+    "page": 6,
+    "section": "Background",
+    "content": "BackgroundBAS ID + Varvet\nFrom brand to product\nBy being involved from the start, Varvet can \ngradually increase its involvement, ensuring \nthat design decisions align closely with the \nbrand and product vision.\nThe collaboration between BAS ID and Varvet \naims to facilitate a smooth transition from \nbrand strategy to digital product execution.\n\nBAS ID focuses on the foundational brand \nwork, while Varvet handles translating that \nidentity into user experiences through \nwireframes and interface design."
+  },
+  {
+    "page": 7,
+    "section": "Background",
+    "content": "BackgroundChanges in the proposal\nTrove requested a proposal for the next step after BAS ID developed \ntheir brand identity. Our initial response included a User Experience \nphase.\n\nAfterward, Trove also asked for a complete overview of the project and its \ncosts. We updated the proposal to cover the entire design and \ndevelopment of the application.\n\nThis proposal assumes the application will be built exclusively as a mobile \napp using a cross-platform framework, which we recommend to be React \nNative.\n\nThe proposal is divided into four parts: User Experience, Design, \nTechnical Exploration, and a Build phase."
+  },
+  {
+    "page": 8,
+    "section": "Background",
+    "content": "Our Proposal\n2025© Copyright. All Rights Reserved.\nVarvet"
+  },
+  {
+    "page": 9,
+    "section": "User Experience",
+    "content": "Project Overview\nThe proposed timeline, show how our joint efforts with BAS ID and Trove could unfold \nacross the coming months. Each phase is shaped to build on the last  from strategy and \ndesign to a sprint-based build process.\nBAS ID\nAugust\nSeptember\nOktober\nNovember\nDecember\nJanuari\nFebruari\nMarch\nVarvet\nUser \nExperience\nDesign \nTechnical \nexploration\n8 to 10 two-week sprints \nBuild \n1\n2\n3\n4"
+  },
+  {
+    "page": 10,
+    "section": "User Experience",
+    "content": "User Experience\n1"
+  },
+  {
+    "page": 11,
+    "section": "User Experience",
+    "content": "BAS ID\nBackground Defining the User Experience\nDuring this phase, we design the user interaction and user flow.\n\nWe start by reviewing the research provided by BAS ID. From there, we \nmap out how users navigate the experience, what information they \nreceive, when they receive it, and what triggers them to engage with the \napp and take the desired actions.\n\nThe outcome of this phase is a set of wireframes: clear, low-fidelity \nlayouts that define structure, content hierarchy, and interactions. These \nwireframes serve as the blueprint for the visual design and development \nthat follow."
+  },
+  {
+    "page": 12,
+    "section": "User Experience",
+    "content": "UX that aligns with\nthe brand\nBrand strategy\nUX phase\nDesign phase\nBuild phase\nBrand concept\nUX concepts\nInput from \nbrand concept\nInput from \nUX work\nDirection \n& \nFeedback\nDirection \n& \nFeedback\nUser flow \ndiagrams\nWire frames\nKey Views\nLo - Fi \nprototype\nRefinement\nBrand identity\nBranding\nBAS ID\nProduct design\nVarvet\n→ \n→ \n→ \n→ \n→ \nWire frames\n Steps\n1\n2\n3\n4\n5\nTechnical \nexploration\n1\n6\nUX that aligns with the brand means ensuring \nthat every interaction, flow, and screen reflects \nthe brand’s personality, values, and promise.\nAfter BAS ID establishes the brand foundation, Varvet turns it into a product experience. \nGuided by the brand promise, we define principles that guide functionality and craft user \njourneys starting from intent or a nudge from Trove."
+  },
+  {
+    "page": 13,
+    "section": "User Experience",
+    "content": "Embedding Trove’s unique value \nin the product experience\nSmart Insights\nContextual and relevant guidance based on \npersonal preferences and best practices\n \nLearn\nBite-sized, intuitive lessons that make \ninvestment concepts easy to grasp\nInvest  \nEffortless access to ETFs aligned with your \npersonal goals and preferences \nHoldings \nA clear, real-time view of your portfolio — \nalways know know how your money is doing\n \nProgress & Motivation\nCelebrate and recognize your growth both \nmoney, goals and as an investor\nWe believe the app should seamlessly integrate Trove’s core elements. \nWhen combined, each feature supports the others, creating a personal, \nengaging, and captivating experience.\nInvest\nHoldings\nProgress\n&\nMotivation\nSmart\nInsights\nLearn"
+  },
+  {
+    "page": 14,
+    "section": "User Experience",
+    "content": "Key activities\n1 - UX Concepts\nWe outline key principles for how users should engage with the \napp, including behavior, interaction, and flow — all based on the \nbrand strategy.\n\n2 - User Flows\nWe use flowcharts to map out typical user journeys, showing how \nusers move through the app, from onboarding and investing to \nlearning and receiving feedback.\n\n3 - Wireframes: Steps\nWe create low-fidelity wireframes of the critical steps in each \njourney, including onboarding, investment flows, smart insights, \nfeedback, and motivational interactions.\n\n4 - Wireframes: Key Views\nWe design the structure and layout of key views, such as the \ndashboard, fund detail pages, learning modules, and progress \ntracking.\n\n5 - Lo-Fi Prototype\nWe create a clickable prototype from wireframes. This prototype \ncan be used internally and with test users to gather early \nfeedback and validate concepts before starting the full design.\n\n6 - Refinement\nBased on insights from testing the prototype, we refine and adjust \nboth flows and views — ensuring that user needs and brand \nalignment remain central to the product experience.\nWe suggest a tailored-made process starting with UX concepts and user flows, \nfollowed by wireframes of key steps and views, and ending with a clickable \nprototype to gather feedback and guide refinements."
+  },
+  {
+    "page": 15,
+    "section": "User Experience",
+    "content": "Key activities\n\n\n\n1 - UX Concepts\n2 - User Flows\n3 - Wireframes: Steps\n4 - Wireframes: Key Pages\n5 - Lo-Fi Prototype\n6 - Refinement\nGoals\n→ Define principles to guide the product \nexperience and deliver on the brand\n→ Clear overview of the goals, steps and \nthe process for different user groups \n→ Eliminate thresholds for users\n→  UX and design that encourage the \ncustomer to complete the process\n→ Material and presentation that \nencourages the customer to invest, \nmotivates to learn and engage in the app\n→ Functionality, structure and layout  that \ncognitively encourages commitment\n→ Improve the design\n→ Find unknown impediments \n→ Better performing UX\nDelivery\n→ A set of principles to guide how \nfunctionality works\n→ A visual user flow for the process and its \ntouch points \n→ Wireframes of  key touch points in user \nflows\n→  UI for the views in the application \n→  Lo-Fi prototype\n→ Updated UX wireframes and prototype"
+  },
+  {
+    "page": 16,
+    "section": "User Experience",
+    "content": "Design\n2"
+  },
+  {
+    "page": 17,
+    "section": "Design Phase",
+    "content": "BAS ID\nBackgroundFinding the best visual solution\nDuring this phase, we design the user interface and views of the \napplication. First, we create variations of core screens to find the most \neffective way to implement the brand identity. We combine the best \nexamples into a cohesive visual experience.\n\nNext, we develop a design system with all the necessary components \nused in the app's views.\n\nDesigns are shared in an interactive format, allowing stakeholders to \nprovide feedback and experience the product.\n\nThe result is a complete set of designs with a clear, user-centered vision \nguiding every decision, ready for development."
+  },
+  {
+    "page": 18,
+    "section": "Design Phase",
+    "content": "Design based on UX findings \nand brand identity\nBrand strategy\nUX phase\nDesign phase\nBuild phase\nBrand concept\nDesign\nconcept\nInput from \nbrand \nDirection \n& \nFeedback\nDirection \n& \nFeedback\nDesign \nsystem\nKey Views\nAnimations\nprototype\nRefinement\nBrand identity\nBranding\nBAS ID\nProduct design\nVarvet\n→ \n→ \n→ \n→ \n1\n2\n3\n5\nTechnical \nexploration\n1\n6\nSlightly overlapping the UX, we finalize the visual design of \nthe UI elements and views in the application."
+  },
+  {
+    "page": 19,
+    "section": "Design Phase",
+    "content": "Key activities\n\n\n\n1 – Design Concepts\n2 - Design system\n3 - Key Virews\n4 -  Animations\n5 - Ho-Fi Prototype\n6 - Refinement\nGoals\n→ Find the most effective way to bring the \nbrand identity to life \n→ Aligning brand expression with digital \nusability.\n→ Build a reusable system of components \nfor consistency and reusability.\n→  Design all the views in an cohersive and \nappealing way\n→  Implement micro animations and avatar \nin the screens \n→ Sharing the design and collect feedback \nfor improvements\n→ Enhanced experience\nDelivery\n→Variations of screen designs to compare \nand combine.\n→ UI elements: buttons, inputs, icons, grids, \npatterns. \n→designs of views like dashboard, fund \npages, modules.\n→Clickable prototype used for feedback \nand specification for development.\n→  Lo-Fi prototype\n→ Updated UX wireframes and prototype"
+  },
+  {
+    "page": 20,
+    "section": "Design Phase",
+    "content": "Key activities\n1 - Design Concepts\nWe use the brand guidelines from BAS ID and explore different \nversions of the views in the app. We use the outcome to compare \nand combine the best. \n2 - Design system\nWe create all the essential UI elements, buttons, input fields, \nicons, grids, and patterns that are needed to build consistent \nviews. This system ensures visual harmony across the product.\n\n3 -Key views\nWe design the core screens required to bring the app to life. \nThese  designs covers  cover the views and the different states \nproviding clear guidance for development.\n4 -  Animations\nWe finalize design of key views using the wireframes and design \nsystem, such as the dashboard, fund detail pages, learning \nmodules, and progress tracking.\n\n5 - Ho-Fi Prototype\nWe create a clickable prototype from design. This prototype can \nbe used internally and with test users to gather feedback and \nvalidate design and features.\n\n6 - Refinement\nBased on feedback from the prototype, we refine and adjust the \ndesign. \nWe create the visual design for all views that have been defined in the UX. In \naddition, we will create and ensure a design that creates desire and cognitively \nencourages commitment."
+  },
+  {
+    "page": 21,
+    "section": "Design Phase",
+    "content": "Technical\nexploration \n3"
+  },
+  {
+    "page": 22,
+    "section": "Technical Exploration",
+    "content": "BAS ID\nBackgroundTechnical exploration\nWe recommend conducting a brief technical exploration to get a head \nstart for development. This can begin alongside the design process.\n\nWe will investigate the proposed API to understand and validate key \ntechnical aspects, including:\nThe fundamentals and structure of the API we will use\nHow to enable a smooth, low-friction onboarding experience\nThe mechanics of executing investments\nAvailable feedback and data on user holdings\nFund categories and how they can be matched to personal \npreferences\n\nThe exploration will produce an architectural map of the application, \noutlining core components and their integrations — providing a solid \nfoundation for both design and development."
+  },
+  {
+    "page": 23,
+    "section": "Technical Exploration",
+    "content": "Build\n4"
+  },
+  {
+    "page": 24,
+    "section": "Build Phase",
+    "content": "Building the application\nDuring the technical exploration, we test the core \nfeatures that depend on the API.\n\nFrom that, we determine which API calls need to be \nmade just in time and which calls we can aggregate \nor cache to improve performance.\n\nTo reduce project risk, we will start by building the \ncore features necessary for the application and the \nmost complex tasks.\nAdmin \n&\n\nBackend \nfor \nFrontend \nMobile \nApplication\nExternal \nAPI\ncustomer\nadministrator\nor partner"
+  },
+  {
+    "page": 25,
+    "section": "Build Phase",
+    "content": "BAS ID\nBackgroundBuild iterative in sprints\nOur estimate is a team of three people working across 8 to 10 two-week \nsprints.\n\nWhen building the app, we follow an agile approach, dividing the work into \nstructured two-week sprints. We begin by defining a roadmap, outlining \nthe functionality planned for each sprint and setting priorities in close \ncollaboration with your team.\n\nBy following this roadmap, we can continuously track progress, ensure \nthat development stays aligned with goals, and adjust plans based on \nfeedback, new insights, or changing needs—without losing momentum."
+  },
+  {
+    "page": 26,
+    "section": "Build Phase",
+    "content": "BAS ID\nBackground\nKey sprints activities.\nSprint planning\nIn this phase, we align on the sprint's objectives, detailing what \ntasks will be accomplished and identifying the necessary steps. \nEnsuring the production team has all the resources they need is \na crucial part of this process. It provides clarity regarding what \nthe team will deliver and if any additional work from Trove is \nrequired. This planning stage is fundamental to setting the \ncourse for a successful sprint.\nSprint Demo\nOur goal is to build working software that creates value quickly. \nWe achieve this by dividing the work in the right way. Based on \nusers' goals, we can make the functionality for completing that \ngoal and present a demo of the functionality at the end of the \nsprint.This also provides an opportunity for stakeholders to give \nfeedback.\nDaily standup\nWe understand the importance of keeping a close eye on our \nprogress. Through daily standup meetings, we continuously \ntrack our planned work versus what remains outstanding. This \nallows us to swiftly address any obstacles and adapt to changes \nas they arise, ensuring that the team remains confident and \nstays on the right path.\nRetrospective\nAfter each sprint, we engage in a retrospective to foster \nimprovement throughout the project. This dedicated space for \nreflection allows us to assess and enhance our work methods, \npromoting a more successful collaboration, a stronger team, and \na more effective project."
+  },
+  {
+    "page": 27,
+    "section": "Build Phase",
+    "content": "The Team\n2025© Copyright. All Rights Reserved.\nVarvet"
+  },
+  {
+    "page": 28,
+    "section": "Team",
+    "content": "Simon Zeeck\nProducer\nWith over 30 years of creating digital services, Simon \nhas solid experience in leading teams, manage  \nprojects, and strategy for small and large projects. \n\nFor the Swedish company BabyBjörn he has been \ncritical in helping them implement e-commerce. They \nare now running a successful global e-com site.\n\n\n\n\n\nSimon is an internationally certified instructor in martial \narts and runs a self defence school in central \nStockholm.\n”\nI am inspired and motivated by new discoveries and \nadvances in technology. My driving force is to use \nthem to improve society and people's everyday lives."
+  },
+  {
+    "page": 29,
+    "section": "Team",
+    "content": "Niklas Wegdell\nUX Designer\nNiklas has gained over 25 years of broad experience \nacross the user-centered design spectrum, leading \ndesign teams and creating digital products as a \ndesigner.\n\nHe served as lead designer and design manager at the \nNew York startup Honest Buildings, where he built a \ndesign team and led research and design to create an \nenterprise platform for real estate from the ground up. \nThe company was acquired just four years later�\nNiklas can often be found driving old classic cars or \nphotographing them for car magazines.\n”\nI thrive on dissecting complex problems and \ntransforming them into products and services that \ndelight users. I love working on solutions with a \nclear purpose that help both businesses and users \nsucceed."
+  },
+  {
+    "page": 30,
+    "section": "Team",
+    "content": "Jens Lindman\nUI Designer\nWith over 20 years of experience in roles such as Product \nDesigner, Design Director, Art Director, and Strategic \nAdvisor, Jens brings both deep expertise and creative \nvision to every project. He has co-founded four startups — \nfrom helping 15 million sport fishers catch more fish, to \nimproving the experience for 150,000 bowlers, and \nsupporting 25,000 people in overcoming alcoholism.\n\nJens is driven by the challenge of pushing companies \nforward by creating products that are smarter, faster, and \nbetter — while also being beautifully designed and intuitive \nto use."
+  },
+  {
+    "page": 31,
+    "section": "Team",
+    "content": "With experience from both smaller startups and big tech \ncompanies, Adam brings a broad skill set across the tech \nstack — from backend services to user-facing interfaces.\n\nAt the Stockholm-based startup Velory, he helped shape \nthe user experience by building the company’s design \nsystem and user facing products, often from scratch. At \nKlarna, he contributed to both frontend features and \nbackend services for the Klarna app, features used by \nmillions of users across the world.\n\n\n\n\n\n\nPreviously a journalist, Adam brings a keen sense for \nstructure and storytelling to everything from code to \nproduct flows. \n\nI’m driven by a curiosity for how things work — whether \nit’s a digital system or a physical one. I love building \nthings that are both functional and beautiful, and that \npeople actually enjoy using.\n”\nAdam Bergman\nDeveloper"
+  },
+  {
+    "page": 32,
+    "section": "Team",
+    "content": "Kim Burgestrand\nDeveloper\nWith 15 years across startups, consultancies, and product \ncompanies, Kim champions solutions that deliver tangible \nbusiness value, mindful that the best solution might be no \ncode at all.\n\nA community builder at heart, Kim maintains widely-used \nopen source projects, drives local tech meetups, and has \norganized developer conferences, earning recognition at \nmajor industry events.\n\nFrom his island in the Stockholm archipelago, Kim \ncombines his self-taught background and love for extreme \nsports and martial arts with a pragmatic approach, bridging \ntechnical excellence and business impact."
+  },
+  {
+    "page": 33,
+    "section": "Team",
+    "content": "Budget\n2025© Copyright. All Rights Reserved.\nVarvet"
+  },
+  {
+    "page": 34,
+    "section": "Budget",
+    "content": "Suggested Budget\nUser Experience\nPM & Strategy\nUX Designer\nUI Designer\n35 days\n10 days\n15 days\n10 days\n395 000 SEK\n120 000 SEK\n165 000 SEK\n110 000 SEK\nBuild Sprint\nPM & Strategy\nUI Designer\nDeveloper\n30 days\n5 days\n5 days\n20 days\n315 000 SEK\n60 000 SEK\n55 000 SEK\n200 000 SEK\n2 520 000 SEK\nTotal build cost\n\n(based on 8 Build Sprints)\nDesign\nPM & Strategy\nUX Designer\nUI Designer\n25 days\n10 days\n5 days\n10 days\n285 000 SEK\n120 000 SEK\n55 000 SEK\n110 000 SEK\n13 days\n3 days\n10 days\n136 000 SEK\n36 000 SEK\n100 000 SEK\nTech Exploration \nPM & Strategy\nDeveloper"
+  },
+  {
+    "page": 35,
+    "section": "Budget",
+    "content": "Final Thoughts\n2025© Copyright. All Rights Reserved.\nVarvet"
+  },
+  {
+    "page": 36,
+    "section": "Final Thoughts",
+    "content": "BAS ID\nBackgroundFinal Thoughts\nThe experience from previous successes such as Lifesum, Dockspot \nAlumni Ventures and Wealth Simple makes Varvet a perfect match: \n\nMaking financial brands premier has become our specialty!\nWe have hand-picked a team eager to create your experience!\nWe have made this journey before and are now ready to embark \non a new adventure together with Trove!"
+  },
+  {
+    "page": 37,
+    "section": "Final Thoughts",
+    "content": "Enough Talk\nNow let’s turn ambition into reality \nand build what others will try to copy"
+  }
+]
